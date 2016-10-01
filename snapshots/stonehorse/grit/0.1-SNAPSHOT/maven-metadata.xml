@@ -2,35 +2,35 @@
 <metadata modelVersion="1.1.0">
   <groupId>stonehorse</groupId>
   <artifactId>grit</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20161001.094029</timestamp>
+      <timestamp>20161001.101451</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20161001094029</lastUpdated>
+    <lastUpdated>20161001101451</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20161001.094029-1</value>
-        <updated>20161001094029</updated>
+        <value>0.1-20161001.101451-1</value>
+        <updated>20161001101451</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20161001.094029-1</value>
-        <updated>20161001094029</updated>
+        <value>0.1-20161001.101451-1</value>
+        <updated>20161001101451</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20161001.094029-1</value>
-        <updated>20161001094029</updated>
+        <value>0.1-20161001.101451-1</value>
+        <updated>20161001101451</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0-20161001.094029-1</value>
-        <updated>20161001094029</updated>
+        <value>0.1-20161001.101451-1</value>
+        <updated>20161001101451</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
